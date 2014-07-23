@@ -1,16 +1,16 @@
-# Git time machine
+# Mercurial time machine
 
 ## Installation
 
 Installation alternatives:
 
-- Download git-timemachine.el and drop it somewhere in your `load-path`.
-- If you use `el-get`, simply add `git-timemachine` to your packages list.
+- Download hg-timemachine.el and drop it somewhere in your `load-path`.
+- If you use `el-get`, simply add `hg-timemachine` to your packages list.
 - If you have melpa configured it's available through `package-install`.
 
 ## Usage
 
-Visit a git-controlled file and issue `M-x git-timemachine` (or
+Visit an hg-controlled file and issue `M-x hg-timemachine` (or
 bind it to a keybinding of your choice).
 
 Use the following keys to navigate historic version of the file
